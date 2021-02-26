@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: Medilab
-Template URL: https://bootstrapmade.com/medilab-free-medical-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Template Name: Mediheal
+Template URL: free-medical-bootstrap-theme/
+Author: anselmo-flavian
+
